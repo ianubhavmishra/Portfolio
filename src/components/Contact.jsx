@@ -45,7 +45,7 @@ const Contact = () => {
           <label>Message</label>
           <textarea className='h-20 border-solid border border-gray-400 rounded' name="message" placeholder='Enter your message' required></textarea>
         </div>
-        <button className='py-1 px-32 max-md:px-20 bg-amber-400 border-solid border border-black rounded'>Send Mail</button>
+        <button className='py-1 px-32 max-md:px-20 bg-amber-400 border-solid border border-black rounded hover:font-medium '>Send Mail</button>
       </form>
     </div>
   )
