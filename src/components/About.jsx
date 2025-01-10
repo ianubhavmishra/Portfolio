@@ -14,7 +14,7 @@ const about = () => {
             Innovative web development projects.</div>
         </div>
         <div>
-          <img className='size-60 rounded-full border-black border-4 border-solid ' src="https://media.licdn.com/dms/image/D5603AQEJBtXdEU6B3A/profile-displayphoto-shrink_400_400/0/1719905056848?e=1725494400&v=beta&t=Eg0SB9k82GsU-Js3D_8epOip6dEIBUDwTc0PLxv4AKo" alt="" />
+          <img className='size-60 rounded-full border-black border-4 border-solid ' src="https://media.licdn.com/dms/image/v2/D5603AQHPC8XpP8vFXQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719906476802?e=1741824000&v=beta&t=K399UJnwlz-cWrfrS9Vq8L6qF7BipqsoIqh0yYainEw" alt="" />
         </div>
       </div>
         <button className='flex gap-1 items-center max-md:m-auto max-md:mt-14 ml-80 bg-slate-900 text-white p-2 rounded-lg font-medium hover:bg-slate-700'><a href="https://drive.google.com/uc?export=download&id=159N40rdrVWba1YrZrAEs07MWR2XEykK7">Resume</a>
